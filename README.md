@@ -1,2 +1,2 @@
 # Astrosage-Analysis
-Data analysis project 
+Data analysis project (using Excel)
